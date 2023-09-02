@@ -1,0 +1,15 @@
+{
+  "name": "kcamp-stage2-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "question2.js",
+  "scripts": {
+    "start": "node question2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4"
+  }
+}
